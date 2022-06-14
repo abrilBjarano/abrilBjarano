@@ -4,7 +4,7 @@ Aspiring to be a full-stack developer. <3
 
 <br>
 
-Currenly studying Java!
+Currently studying Java!
 
 <br>
 
