@@ -1,10 +1,10 @@
 ## 💻 Software engineering student
 
-Aspiring to be a full-stack developer. <3
+Aspiring to be ... any kind of ... developer <3 XD
 
 <br>
 
-Currently studying Java!
+Currently studying Angular :)
 
 <br>
 
