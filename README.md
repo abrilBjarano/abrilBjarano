@@ -4,7 +4,7 @@ Aspiring to be ... any kind of ... developer <3 XD
 
 <br>
 
-Currently studying Angular :)
+Currently studying JavaScript :)
 
 <br>
 
