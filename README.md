@@ -1,6 +1,6 @@
 ## 💻 Software engineering student
 
-Aspiring to be ... any kind of ... developer <3 XD
+Aspiring to be a Web developer! 
 
 <br>
 
