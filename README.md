@@ -1,1 +1,1 @@
-## Currentl learning Angular!
+## Currently learning Angular! 🐈‍⬛🐈
