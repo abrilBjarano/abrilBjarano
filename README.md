@@ -16,10 +16,13 @@
 
 <br><br>
 
-- 🧠 Currently learning **Angular**.
-- 💌 How to reach me **4bejarano@gmail.com**.
+<div align="center">
+  <p>- 🧠 Currently learning <strong>Angular</strong>.</p>
+  <p>- 💌 How to reach me <strong>4bejarano@gmail.com</strong>.</p>
+</div>
 
-<br>
+
+<br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrilbjarano&show_icons=true&theme=cobalt&locale=en&layout=compact&hide=dart" alt="abrilbjarano" /></p>
 
