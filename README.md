@@ -17,10 +17,9 @@
 <br><br>
 
 <div align="center">
-  <p>- 🧠 Currently learning <strong>Angular</strong>.</p>
-  <p>- 💌 How to reach me <strong>4bejarano@gmail.com</strong>.</p>
+  <p> 🧠 Currently learning <strong>Angular</strong>.</p>
+  <p> 💌 How to reach me <strong>4bejarano@gmail.com</strong>.</p>
 </div>
-
 
 <br><br>
 
