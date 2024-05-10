@@ -17,7 +17,7 @@
 <br><br>
 
 <div align="center">
-  <p>🧠 Currently learning <strong>UI/UX Design</strong> and <strong>Angular</strong>.</p>
+  <p>🧠 Currently learning <strong>UI/UX Design</strong>, <strong>React</strong>, and <strong>Angular</strong>.</p>
   <p> 💌 Contact me at: <strong>4bejarano@gmail.com</strong>.</p>
 </div>
 
