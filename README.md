@@ -26,5 +26,5 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrilbjarano&show_icons=true&theme=cobalt&locale=en&layout=compact&hide=dart" alt="abrilbjarano" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrilbjarano&show_icons=true&theme=cobalt&locale=en&layout=compact&hide=dart,kotlin" alt="abrilbjarano" /></p>
 
