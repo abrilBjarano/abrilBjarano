@@ -1,4 +1,4 @@
-<h1 align="center">Software engineering 🧑‍🎨</h1>
+<h1 align="center">Software engineer 🧑‍🎨</h1>
 <p align="center">Web Development enthusiast 🕸️</p>
 
 <br>
