@@ -19,7 +19,7 @@
 <br><br>
 
 <div align="center">
-  <p>🧠 Currently learning <strong>UI Design</strong> and <strong>NestJS</strong>.</p>
+  <!-- <p>🧠 Currently learning <strong>UI Design</strong> and <strong>NestJS</strong>.</p> -->
   <p> 💌 Contact me at: <strong>4bejarano@gmail.com</strong>.</p>
 </div>
 
