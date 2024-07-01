@@ -15,8 +15,7 @@
   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/jira.png"/> -->
 </div>
-
-<br><br>
+<hr/>
 
 <div align="center">
   <!-- <p>🧠 Currently learning <strong>UI Design</strong> and <strong>NestJS</strong>.</p> -->
