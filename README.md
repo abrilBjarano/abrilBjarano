@@ -1,4 +1,9 @@
 <h1 align="center">Software engineer 🧑‍🎨</h1>
+<div align="center">
+  <!-- <p>🧠 Currently learning <strong>UI Design</strong> and <strong>NestJS</strong>.</p> -->
+  <p> 💌 Contact me at: <strong>4bejarano@gmail.com</strong>.</p>
+</div>
+
 
 <br>
 
@@ -14,12 +19,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/jira.png"/> -->
-</div>
-<hr/>
-
-<div align="center">
-  <!-- <p>🧠 Currently learning <strong>UI Design</strong> and <strong>NestJS</strong>.</p> -->
-  <p> 💌 Contact me at: <strong>4bejarano@gmail.com</strong>.</p>
 </div>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrilbjarano&show_icons=true&theme=cobalt&locale=en&layout=compact&hide=dart,kotlin" alt="abrilbjarano" /></p> -->
