@@ -5,9 +5,12 @@
 <div align="center">
   <img src="https://img.icons8.com/?size=48&id=J79emsSv2QCu&format=png&color=000000"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/?size=60&id=2KVGsVii5ZKv&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=50&id=JRnxU7ZWP4mi&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=QEQQKirln6Tf&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
