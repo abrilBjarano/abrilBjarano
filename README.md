@@ -1,4 +1,4 @@
-<h1 align="center">Software engineer 🧑‍🎨</h1>
+<h1 align="center">Full Stack Dev Jr | Software Engineer 🧑‍🎨</h1>
 
 <br>
 
