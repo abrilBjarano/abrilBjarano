@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=QEQQKirln6Tf&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=45&id=78Fr72VCwbPq&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
 
