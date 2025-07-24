@@ -1,6 +1,4 @@
-<h1 align="center">Full Stack Dev Jr | Software Engineer 🧑‍🎨</h1>
-
-<br>
+<!-- <h1 align="center">Full Stack Dev Jr | Software Engineer 🧑‍🎨</h1> -->
 
 <div align="center">
   <img src="https://img.icons8.com/?size=48&id=J79emsSv2QCu&format=png&color=000000"/>
